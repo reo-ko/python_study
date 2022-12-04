@@ -28,6 +28,8 @@ for i in range(10):#10まで　0-9まで
     total += i
 print(total)
 
+
+
 # for文とif文 0~30で奇数だったら”奇数”、偶数の場合は”偶数”を出力
 print("=========== 問5 ===========")
 for i in range(10,31):
